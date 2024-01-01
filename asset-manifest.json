@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/css/main.2fd450c2.css",
+    "main.js": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/js/main.479d0695.js",
     "index.html": "/bekhuriy.github.io/goit-react-hw-03-phonebook/index.html",
-    "main.7acaea2f.css.map": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/js/main.07d3183d.js.map"
+    "main.2fd450c2.css.map": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/css/main.2fd450c2.css.map",
+    "main.479d0695.js.map": "/bekhuriy.github.io/goit-react-hw-03-phonebook/static/js/main.479d0695.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.2fd450c2.css",
+    "static/js/main.479d0695.js"
   ]
 }
