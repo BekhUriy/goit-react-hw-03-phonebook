@@ -1,7 +1,7 @@
 import React from 'react';
 import './ContactList.css'; // Шлях до вашого файлу стилів
 
-const ContactList = ({ contacts, onDeleteContact }) => (
+const ContactList = ({ contacts, onDelete }) => (
   <ul className="list">
     {contacts.map(contact => (
       <li key={contact.id} className="list-item">
@@ -10,7 +10,7 @@ const ContactList = ({ contacts, onDeleteContact }) => (
         <button
           type="button"
           className="delete-btn"
-          onClick={() => onDeleteContact(contact.id)}
+          onClick={() => onDelete(contact.id)}
         >
           Delete
         </button>
